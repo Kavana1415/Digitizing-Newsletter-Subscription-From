@@ -29,7 +29,6 @@ interface
 ## How to Use Code
 Extract the Zip file run only the digitizing newsletter subscritption form : Install Xampp and the then open Xampp(start Apache server and MySQL) then open "localhost/phpmyadmin/" in chrome bowser.
 
-![Image_Alt](<img width="544" height="815" alt="Screenshot 2025-11-13 185456" src="https://github.com/user-attachments/assets/d12e2a32-9e21-4bc0-9fec-2da93957891f" />
-)
+
 
 
